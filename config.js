@@ -13,9 +13,9 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/EVCGfzxLWfp81n0WhmVklH', 'https://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['6289505165400', '6282221792667', '6285730903853'] // Masukan nomot kalian
-global.mods = ['6289505165400', '6282221792667'] // Moderator
+global.linkGC = ['https://chat.whatsapp.com/KjGTy8ZlVkOCXtOlFLohNb'] // ganti jadi group lu
+global.owner = ['6287859071938', '6285745456558', '6282136312583'] // Masukan nomot kalian
+global.mods = ['6287859071938', '6282136312583'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -79,12 +79,12 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© R-Txzy' //change the watermark 
-global.image = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
+global.watermark = '© Byyu' //change the watermark 
+global.image = 'https://telegra.ph/Thumbnail-04-29' //change the image
+global.thumbfoto = 'https://telegra.ph/Thumbnail-04-29'
 
 // Ubah saja
-global.image = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'//thumbnail
+global.image = 'https://telegra.ph/Thumbnail-04-29'//thumbnail
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
 global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
 global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
